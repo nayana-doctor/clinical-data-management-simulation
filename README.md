@@ -51,5 +51,5 @@ the HPRA (Health Products Regulatory Authority).
   the full working workbook (open in Excel to see live formulas)
 - 📋 [`REDCap_Data_Dictionary.csv`](./REDCap_Data_Dictionary.csv) —
   the data dictionary in REDCap's standard CSV export format (viewable directly on GitHub)
-- 📄 [`Mock-Clinical-Trial-Data-Management.pdf`](./Mock-Clinical-Trial-Data-Management.pdf) —
+- 📄 [`Mock-Clinical-Trial-Data-Management.pdf`](https://github.com/nayana-doctor/clinical-data-management-simulation/blob/main/REDCap-style%20clinical%20data%20management%20workbook.pdf) —
   a quick-view snapshot of the workbook (viewable directly on GitHub, no download needed)
